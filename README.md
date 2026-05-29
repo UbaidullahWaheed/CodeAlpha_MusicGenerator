@@ -197,7 +197,8 @@ python App.py
 
 ## 📸 Screenshots
 
-> *Add screenshots of your app here after running it!*
+><img width="649" height="505" alt="image" src="https://github.com/user-attachments/assets/4106a600-0a7d-4cc9-829c-10ecb56eea0d" />
+
 
 ---
 
